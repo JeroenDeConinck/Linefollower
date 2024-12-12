@@ -37,7 +37,7 @@ De robot rijdt stabiel met volgende parameters:
 Power= 20/ diff= 0,05/ kp= 0,5/ ki= 0,05/ kd= 0,001
 ### start/stop button
 De drukknop die op het protype bordje is gemonteerd zorgt ervoor dat de wagen in “Run” stand wordt gebracht of in “Niet RUN”.
-![image](main/images/Bovenaanzicht.jpg)
+![image](https://github.com/JeroenDeConinck/Linefollower/blob/main/images/Bovenaanzicht.jpg)
 
 ### settings
 De robot rijdt stabiel met volgende parameters:  
